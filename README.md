@@ -4,7 +4,7 @@ Olá 👋 Meu nome é Nathan Sousa
 Desenvolvedor FullStack
 -----------------------
 
-Apaixonado por café, jogos e tecnologia. Atualmente cursando Sistemas de Informação, e com mais de 2 anos de experiência no mercado de trabalho como desenvolvedor de software. Criando soluções escaláveis e performáticas, com código limpo e desenvolvimento ágil. Estou sempre me atualizando com as últimas tendências. Tenho nível básico de inglês, mas estou empenhado em evoluir e abrir meus horizontes com o idioma.
+Apaixonado por café, jogos e tecnologia. Atualmente cursando Sistemas de Informação, e com mais de 2 anos de experiência no mercado de trabalho como desenvolvedor de software. Criando soluções escaláveis e performáticas, com código limpo e desenvolvimento ágil. Sempre me atualizando com as últimas tendências. Tenho nível básico de inglês, mas estou empenhado em evoluir e abrir meus horizontes com o idioma.
 
 * 🌍  Belo Horizonte.
 * ✉️  [nathan.wks@outlook.com](mailto:nathan.wks@outlook.com)
