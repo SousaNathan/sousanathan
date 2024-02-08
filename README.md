@@ -4,12 +4,12 @@ Olá 👋 Meu nome é Nathan Sousa
 Desenvolvedor FullStack
 -----------------------
 
-Apaixonado por café, jogos e tecnologia. Atualmente cursando Sistemas de Informação, e com mais de 2 anos de experiência no mercado de trabalho como desenvolvedor de software. Criando soluções escaláveis e performáticas, com código limpo e desenvolvimento ágil. Sempre me atualizando com as últimas tendências. Tenho nível básico de inglês, mas estou empenhado em evoluir e abrir meus horizontes com o idioma.
+Desenvolvedor Full Stack desde 2021. Atualmente, estou cursando Sistemas de Informação e complementando minha formação com cursos livres em .NET e React. Ingressei na área de tecnologia como estagiário na mesma empresa em que agora atuo como Desenvolvedor Full Stack. Nessa posição, sou responsável pela manutenção e implementação de novas funcionalidades em um software SaaS especializado em gerenciamento de propriedade intelectual.
 
 * 🌍  Belo Horizonte.
 * ✉️  [nathan.wks@outlook.com](mailto:nathan.wks@outlook.com)
 * 🚀  Trabalhando na [Pris Software](http://https://pris.com.br)
-* 🧠  Atualmente focando os estudos em Front-end com especialização em React.
+* 🧠  Além da faculdade de Sistemas de Informação, estou ampliando meus estudos em .NET na parte de Back-end, desde reforçando os fundamentos ao avançado em API's, Nuvem e Testes. E me especializando em React na parte de Front-end.
 
 ### Skills
 
