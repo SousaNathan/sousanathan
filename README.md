@@ -1,23 +1,20 @@
-Olá 👋 Meu nome é Nathan Sousa
+Nathan Sousa
 =============================
 
 Desenvolvedor Full Stack .NET
 -----------------------
 
-Desenvolvedor Full Stack com mais de 3 anos de experiência. Atuei como responsável pela manutenção e implementação de novas funcionalidades em um software SaaS especializado em gerenciamento de propriedade intelectual.
-
 * 🌍  Belo Horizonte.
 * ✉️  [nathan.wks@outlook.com](mailto:nathan.wks@outlook.com)
-* 🚀  Buscando uma oportunidade como Desenvolvedor .NET
-* 🧠  Cursando Engenharia de Software e realizando cursos livres para aprofundar meus conhecimentos em .NET e React. Embora meu nível de inglês seja básico, estou empenhado em evoluir e expandir meus horizontes com o idioma.
+* 🚀  Buscando uma oportunidade de recolocação no mercado como Desenvolvedor .NET
+* 🧠  Cursando Engenharia de Software.
 
-### Skills
+Desenvolvedor de software Full Stack com mais de 3 anos de experiência em desenvolvimento web. Durante minha carreira, trabalhei na manutenção e desenvolvimento de novas funcionalidades, tanto no Front End quanto no Back End.
 
-- ASP.NET Core, C#, LINQ, Entity Framework Core
-- HTML, CSS, Javascript
-- Serviços de Aplicativos do Azure, Azure WebJobs, Azure Functions
-- Controle de versão com Git e Azure Devops
-- Integração Contínua e Entrega Contínua com Azure Devops
-- Microsoft SQL Server
-- Metodologia Scrum
-- SOLID e Código Limpo 
+Possuo conhecimentos sólidos em tecnologias como .NET, ASP.NET MVC e Web API, Razor e C#, bem como em persistência e manipulação de dados com LINQ, Entity Framework e Banco de Dados SQL Server. Sou capaz de construir interfaces dinâmicas com HTML, CSS e JavaScript.
+
+Além disso, possuo experiência em colaboração em equipe utilizando metodologias ágeis, como Scrum e seus ritos, e em práticas de integração e entrega contínua (CI/CD). Possuo domínio em versionamento de código utilizando Git, tanto no Azure DevOps quanto no GitHub. Também tenho conhecimento em serviços de nuvem, especialmente na plataforma Azure Cloud.
+
+**Nível de Inglês**: Intermediário.
+
+**Tecnologias e ferramentas**: .NET, ASP.NET MVC, Web API, Razor, C#, LINQ, Entity Framework, SQL Server, HTML, CSS, JavaScript, Scrum, CI/CD, Azure DevOps, Git, GitHub, Azure Cloud. 
