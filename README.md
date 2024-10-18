@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">Desenvolvedor Full Stack .NET</h3>
+<h2 align="left">Desenvolvedor Full Stack .NET</h2>
 
 ###
 
