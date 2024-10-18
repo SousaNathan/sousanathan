@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌍  Belo Horizonte.<br>✉️  [nathan.wks@outlook.com](mailto:nathan.wks@outlook.com)<br>🚀  Buscando uma oportunidade de recolocação no mercado como Desenvolvedor .NET<br>🧠  Cursando Engenharia de Software.</p>
+<p align="left">🌍  Belo Horizonte.<br>✉️  nathan.wks@outlook.com<br>🚀  Buscando uma oportunidade de recolocação no mercado como Desenvolvedor .NET<br>🧠  Cursando Engenharia de Software.</p>
 
 ###
 
