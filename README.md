@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌍  Belo Horizonte.<br>✉️  nathan.wks@outlook.com<br>🚀  Buscando uma oportunidade de recolocação no mercado como Desenvolvedor .NET<br>🧠  Cursando Engenharia de Software.</p>
+<p align="left">🌍  Belo Horizonte.<br>✉️  nathan.wks@outlook.com<br>🚀  Desenvolvedor Full Stack .NET Pleno na FIEMG<br>🧠  Cursando Engenharia de Software.</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Desenvolvedor Full Stack .NET</h2>
+<h2 align="left">Desenvolvedor Full Stack .NET Pleno</h2>
 
 ###
 
